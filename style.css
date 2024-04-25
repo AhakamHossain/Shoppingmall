@@ -24,7 +24,7 @@ font-size:2rem;
   letter-spacing: 1;
 }
 .SearchArea {
-  position: fixed;
+position: fixed;
 right: 90px;
 top: 50px;
 width:170px;
@@ -38,4 +38,33 @@ box-shadow: 2px 2px 30px rgba(167, 158, 245, 0.2);
 box-sizing: border-box;
 z-index: 1;
 border:1px solid rgba(167, 158, 245, 0.1);
+}
+.SearchArea input{
+  border: none;
+  outline: none;
+  text-align: center;
+  background-color: transparent;
+  font-weight: bold;
+}
+
+.searchbox input{
+    width: 90px;
+	height: 20px;
+	border: none;
+	outline: none;
+	background-color: transparent;
+	color: #1F1F1F;
+	font-size: 1rem;
+	padding: 0px 10px;
+	font-weight: bold;
+}
+
+.section1{
+    position:absolute;
+    left:15%;
+    top: 50%;
+    transform: translate(-15%,-50%);
+}
+.section1 img {
+    height: 300px;
 }
