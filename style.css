@@ -136,3 +136,19 @@ border:1px solid rgba(167, 158, 245, 0.1);
   box-shadow:2px 2px 30px black;
   z-index: 1;
 }
+.iconarea a i{
+  color: black;
+}
+
+.fa-facebook:hover{
+  color: blue;
+}
+.fa-youtube:hover{
+  color: red;
+}
+.fa-twitter:hover{
+  color: deepskyblue;
+}
+.fa-instagram:hover{
+  color: orangered;
+}
