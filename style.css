@@ -238,3 +238,12 @@ border:1px solid rgba(167, 158, 245, 0.1);
   display: flex;
 }
 
+.productbox:hover{
+  box-shadow: 4px 4px 40px rgba(0, 0, 0, 1);
+  background-color: #fff;
+}
+
+.productbox:hover a:last-child{
+  color: white;
+  transition: all ease 0.5s;
+}
