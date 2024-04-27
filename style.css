@@ -140,8 +140,8 @@ border:1px solid rgba(167, 158, 245, 0.1);
   color: black;
 }
 
-.fa-facebook-f:hover{
-  color: rgba(#3b5998);
+.fa-facebook:hover{
+  color: blue;
 }
 .fa-youtube:hover{
   color: red;
@@ -154,7 +154,7 @@ border:1px solid rgba(167, 158, 245, 0.1);
 }
 
 .productsection{
-  width: 90%;
+  width:90%;
   background-color: #fff;
   box-shadow: 2px 2px 30px black;
   display: flex;
