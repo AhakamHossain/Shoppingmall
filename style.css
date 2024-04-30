@@ -196,6 +196,7 @@ border:1px solid rgba(167, 158, 245, 0.1);
   border-radius: 10px;
   position: relative;
   margin: 10px 80px;
+  transition: 1s;
 }
 
 .productbox img{
@@ -236,6 +237,7 @@ border:1px solid rgba(167, 158, 245, 0.1);
 
 .productbox:hover .buybtn{
   display: flex;
+  
 }
 
 .productbox:hover{
